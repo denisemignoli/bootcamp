@@ -1,1 +1,4 @@
 Resolução através do método de camadas.
+
+primeiro passo: determinar a base inferior através da cruz
+segundo passo: determiner as quinas
