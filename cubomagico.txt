@@ -1,1 +1,3 @@
 Resolução através do método de camadas.
+
+Importante: peça central define a cor da face
